@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nlc99
+- 👀 I’m interested in Python for Finance
+- 🌱 I’m currently learning Mathematics and Economics
+- 💞️ I’m looking to collaborate on Machine Learning for AI stock selection
